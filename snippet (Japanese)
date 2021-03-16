@@ -22,6 +22,9 @@
 <!--  パラグラフ -->
 <p></p>
 <p style="padding-top:1.75em">上を少し開ける</p>
+<p style="padding-bottom:2em">下を少し開ける</p>
+<p style="padding-top:2em;padding-bottom:2em">上下を少し開ける</p>
+<p><strong>強調</strong></p>
 
 
 <!--  YouTube 張り付け -->
@@ -32,6 +35,10 @@
 
 <!--  アフィリエイト・リンク -->
 <p><a href="#" rel="sponsored" style="text-decoration: underline">affiliate link</a></p>
+
+
+<!--  記事のアップデート -->
+<p style="font-weight:bold;padding-top:2em;padding-bottom:.75em">＜Update 1＞</p>
 
 
 <!--  投稿・更新日 -->
@@ -45,6 +52,17 @@
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
 </ul>
+
+
+<!--  順序付きリスト -->
+<p style="padding-bottom:1.5em">順序リスト</p>
+<ol>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+<li>5</li>
+</ol>
 
 
 <!--  関連記事 -->
