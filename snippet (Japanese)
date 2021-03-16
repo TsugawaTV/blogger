@@ -12,6 +12,7 @@
 <a href="#"><img alt="" src="#" title=""></a>
 </div>
 
+
 <!--  Code -->
 <code>
 <span style="font-family:arial;font-size:large"></span>
@@ -21,17 +22,22 @@
 <p></p>
 
 
+<!--  アフィリエイト・リンク -->
 <p><a href="#" rel="sponsored" style="text-decoration: underline">affiliate link</a></p>
 
 
+<!--  投稿・更新日 -->
 <p style="padding-top:1.75em">最終更新日：<time datetime="2021-03-14" itemprop="dateModified">2021年3月14日</time></p>
 
+
+<!--  ソース一覧・リンク -->
 <p style="padding-top:2em">＜Source＞</p>
 <ul>
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
 <li><a href="#"></a></li>
 </ul>
+
 
 <!--  価格＋アフィリエイト -->
 <h3 style="padding-top:1.5em">プライスリスト</h3>
@@ -40,8 +46,7 @@
 <li>CCCCCC <a href="#" rel="sponsored" style="text-decoration:underline">DDDDDDDD</a>（ / / / / Amazon's Choice）→ <span style="font-weight:bold">9,999円</span>（+ポイント1pt）</li>
 </ul>
 
+
 <!-- 署名 -->
 <p style="padding-top:1.5em"><span style="font-style:italic">Author</span>：對川 徹 -　<span style="font-style:italic">Toru Tsugawa（<a href="https://tsugawa.tv/">https://tsugawa.tv/</a>）</span></p>
 <p><span style="font-style:italic">Contact : <a href="https://tsugawa.biz/contact/">https://tsugawa.biz/contact/</a></span></p>
-
-
