@@ -1,3 +1,5 @@
+<!--  Heading -->
+
 <h1 style="font-size:1.4em;padding-bottom:1.2em"></h1>
 
 <h2 style="font-size:1.25em;padding-top:1.25em;padding-bottom:.75em"></h2>
@@ -5,12 +7,12 @@
 <h3 style="font-size:1.25em;padding-top:1.25em;padding-bottom:.75em"></h3>
 
 
-
-<div style="clear: both; text-align: center;padding-top:1.8em;padding-bottom:1.8em">
+<!--  Image -->
+<div style="clear:both;text-align:center;padding-top:1.8em;padding-bottom:1.8em">
 <a href="#"><img alt="" src="#" title=""></a>
 </div>
 
-
+<!--  Code -->
 <code>
 <span style="font-family:arial;font-size:large"></span>
 </code>
@@ -31,7 +33,15 @@
 <li><a href="#"></a></li>
 </ul>
 
+<!--  価格＋アフィリエイト -->
+<h3 style="padding-top:1.5em">プライスリスト</h3>
+<ul>
+<li>AAAAAA <a href="#" rel="sponsored" style="text-decoration:underline">BBBBBBBB</a>（ / / / / Amazon's Choice）→ <span style="font-weight:bold">7,777円</span>（+ポイント1％）</li>
+<li>CCCCCC <a href="#" rel="sponsored" style="text-decoration:underline">DDDDDDDD</a>（ / / / / Amazon's Choice）→ <span style="font-weight:bold">9,999円</span>（+ポイント1pt）</li>
+</ul>
 
-
+<!-- 署名 -->
 <p style="padding-top:1.5em"><span style="font-style:italic">Author</span>：對川 徹 -　<span style="font-style:italic">Toru Tsugawa（<a href="https://tsugawa.tv/">https://tsugawa.tv/</a>）</span></p>
 <p><span style="font-style:italic">Contact : <a href="https://tsugawa.biz/contact/">https://tsugawa.biz/contact/</a></span></p>
+
+
