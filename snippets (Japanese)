@@ -14,7 +14,7 @@
 
 
 <!--  Code -->
-<code>
+<code style="color:#5cfcf2">
 <span style="font-family:arial;font-size:large"></span>
 </code>
 
@@ -28,13 +28,13 @@
 <p><span style="font-style:italic">Update</span> : アップデート</p>
 
 
-<!--  YouTube 張り付け -->
+<!--  YouTube 張り付け レスポンシブ対応 -->
 <div style="height:0;overflow:hidden;padding:30px 0 56.25%;position:relative;text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/#" style="height:100%;left:0;position:absolute;top:0;width:100%" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<!--  Vimeo 張り付け -->
+<!--  Vimeo 張り付け レスポンシブ対応 -->
 <div style="height:0;overflow:hidden;padding:30px 0 56.25%;position:relative;text-align:center">
 <iframe width="640" height="360" src="https://player.vimeo.com/video/#" style="height:100%;left:0;position:absolute;top:0;width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
