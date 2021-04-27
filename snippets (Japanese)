@@ -30,7 +30,7 @@
 
 <!--  YouTube 張り付け レスポンシブ対応 -->
 <div style="height:0;overflow:hidden;padding:30px 0 56.25%;position:relative;text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/#" style="height:100%;left:0;position:absolute;top:0;width:100%" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/#" title="YouTube video player" style="height:100%;left:0;position:absolute;top:0;width:100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
