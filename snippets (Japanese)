@@ -94,11 +94,29 @@
 </ul>
 
 
+
 <!--  価格＋アフィリエイト -->
 <h3 style="padding-top:1.5em">プライス・リスト</h3>
 <ul>
 <li>AAAAAA <a href="#" rel="sponsored" style="text-decoration:underline">BBBBBBBB</a>（ / / / / Amazon's Choice）→ <span style="font-weight:bold">7,777円</span>（+ポイント1％）</li>
 <li>CCCCCC <a href="#" rel="sponsored" style="text-decoration:underline">DDDDDDDD</a>（ / / / / Amazon's Choice）→ <span style="font-weight:bold">9,999円</span>（+ポイント1pt）</li>
+</ul>
+
+
+<!--  大量リスト -->
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
 
 
