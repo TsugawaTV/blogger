@@ -1,4 +1,4 @@
-<!--  Snippets for Google's Blogger -->
+<!--  Snippets for Google's Blogger ブロガー専用のスニペット -->
 
 
 <!--  Heading -->
@@ -119,6 +119,23 @@
 <li></li>
 <li></li>
 <li></li>
+</ul>
+
+
+<!--  大量リスト リンク付き -->
+<ul>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
 </ul>
 
 
